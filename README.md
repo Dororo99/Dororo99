@@ -11,7 +11,7 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
-| **2023.03 -** | **‘ALOHA’ Mentee** | Studying Algorithm and Rating BOJ |
+| **2023.03 -** | **‘ALOHA’ Member** | Studying Algorithm and Rating BOJ |
 | **2023.08 -** | **GDSC HYU(Google Developer Student Clubs) General Member of Server** | Studying Spring |
 
 ### 🏆 Project  

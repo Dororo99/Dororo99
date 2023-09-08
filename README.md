@@ -35,7 +35,7 @@
 </p>
 
 
-![Contribution stats](https://github-readme-stats.vercel.app/api?username=Dororo99&show_icons=true)
+![Dororo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dororo99&theme=monokai&show_icons=true)
 
 ### :cyclone: Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dororo99&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)

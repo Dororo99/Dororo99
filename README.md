@@ -11,8 +11,8 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
-| **2023.03 -** | **‘ALOHA’ Member** | Studying Algorithm and Rating BOJ |
-| **2023.08 -** | **GDSC HYU(Google Developer Student Clubs) General Member of Server** | Working on the Backend Part and Studying NodeJS |
+| **2023.03 - 2023.12** | **‘ALOHA’ Member** | Studying Algorithm and Rating BOJ |
+| **2023.08 - 2024.08** | **GDSC HYU(Google Developer Student Clubs) General Member of Server** | Working on the Backend Part and Studying NodeJS |
 | **2024.01 -** | **AAIS Lab(HYU) Member** | Artificial intelligence research using digital pathology image |
 
 ### 🏆 Project  

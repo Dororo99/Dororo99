@@ -21,6 +21,7 @@
 | ------- | ------- | -------|
 | **2023.07 – .08** | **2023 Tourism Generative Artificial Intelligence (Gen AI) Hackathon** | [BlockTrip: The magic of trip, with your own AI NFT<br>(BlockTrip: 여행의 마법, 당신만의 AI NFT로!)](https://github.com/Dororo99/BlockTrip)
 | **2023.07 – .08** | **CJ Logistics Future Technology Challenge 2023** | [Product volume measurement using a smartphone<br>(스마트폰을 활용한 상품 체적 측정)](https://github.com/Park-HyeJeong/2023_CJ)
+| **2024.01 – .02** | **GDSC Solution Challenge 2024** | [Assists blind individuals in reporting issues with braile blocks<br>(ObsFree)](https://github.com/Dororo99/ObsFree)
 
 
 ### 💪 Skills

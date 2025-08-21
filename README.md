@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDororo99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Hits](https://img.shields.io/github/followers/Dororo99?label=Follow)
-
 :wave: Hi all, I'm Dororo, Studying at ![한양대학교](https://img.shields.io/badge/-한양대학교-00467f)
 
 ### :bulb: Current Interests
@@ -19,9 +17,11 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
+| **2024.01 – .02** | **GDSC Solution Challenge 2024** | [Assists blind individuals in reporting issues with braile blocks<br>(ObsFree)](https://github.com/Dororo99/ObsFree)
+| **2024.01 – .02** | **GDSC Solution Challenge 2024** | [Assists blind individuals in reporting issues with braile blocks<br>(ObsFree)](https://github.com/Dororo99/ObsFree)
 | **2023.07 – .08** | **2023 Tourism Generative Artificial Intelligence (Gen AI) Hackathon** | [BlockTrip: The magic of trip, with your own AI NFT<br>(BlockTrip: 여행의 마법, 당신만의 AI NFT로!)](https://github.com/Dororo99/BlockTrip)
 | **2023.07 – .08** | **CJ Logistics Future Technology Challenge 2023** | [Product volume measurement using a smartphone<br>(스마트폰을 활용한 상품 체적 측정)](https://github.com/Park-HyeJeong/2023_CJ)
-| **2024.01 – .02** | **GDSC Solution Challenge 2024** | [Assists blind individuals in reporting issues with braile blocks<br>(ObsFree)](https://github.com/Dororo99/ObsFree)
+
 
 
 ### 💪 Skills

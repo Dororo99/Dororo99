@@ -9,9 +9,9 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
-| **2025.03 -** | **'SMYD(사미용두)' Memober | Studying and Doing Research on Autonomous Driving |
-| **2024.06 - 2025.11 | **'Shorti' Team Leader | Development of Peer-to-Peer Travel Connection Service |
-| **2024.01 - 2024.12 | **AAIS Lab(HYU) Member** | Artificial intelligence research using digital pathology image |
+| **2025.03 -** | **SMYD(사미용두) Member** | Studying and Doing Research on Autonomous Driving |
+| **2024.06 - 2025.11** | **Shorti Team Leader** | Development of Peer-to-Peer Travel Connection Service |
+| **2024.01 - 2024.12** | **AAIS Lab(HYU) Member** | Artificial intelligence research using digital pathology image |
 | **2023.08 - 2024.08** | **GDSC HYU(Google Developer Student Clubs) General Member of Server** | Working on the Backend Part and Studying NodeJS |
 | **2023.03 - 2023.12** | **‘ALOHA’ Member** | Studying Algorithm and Rating BOJ |
 
@@ -20,10 +20,10 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-| **2025.03 -** | **Development of a 2D Grid-Based Autonomous Driving Algorithm** | [Applied path planning algorithms such as A*, Hybrid A*, and RRT*<br>]
-| ** 2024.09 - .11** | **Development of Counter-Disinformation Method** | [Authenticity and Reliability Inspection with SNS Evaluation<br>(ARISE)]
+| **2025.03 -** | **Development of a 2D Grid-Based Autonomous Driving Algorithm** | Applied path planning algorithms such as A*, Hybrid A*, and RRT*<br>
+| **2024.09 - .11** | **Development of Counter-Disinformation Method** | Authenticity and Reliability Inspection with SNS Evaluation<br>(ARISE)
 | **2024.07 - .11** | **Graduation Project** | [Reconstructing objects from different backgrounds in 3D space using 3D Gaussian Splatting<br>(Graduation_Project)](https://github.com/Dororo99/Capstone-3D-Gaussian)
-| **2024.01 - .11** | **Development of the Pathology Foundation Model** | [Development of preprocessing algorithm for Huge pathology image slides<br>(AAIS_Pthology)]
+| **2024.01 - .11** | **Development of the Pathology Foundation Model** | Development of preprocessing algorithm for Huge pathology image slides<br>(AAIS_Pthology)
 | **2024.01 – .02** | **GDSC Solution Challenge 2024** | [Assists blind individuals in reporting issues with braile blocks<br>(ObsFree)](https://github.com/Dororo99/ObsFree)
 | **2024.09 – .09** | **2023 Namuthon Challenge** | [Blood Donation Certificate Donation System<br>(BloodWallet)](https://github.com/Dororo99/Namuthon_BloodWallet)
 | **2023.07 – .08** | **2023 Tourism Generative Artificial Intelligence (Gen AI) Hackathon** | [BlockTrip: The magic of trip, with your own AI NFT<br>(BlockTrip: 여행의 마법, 당신만의 AI NFT로!)](https://github.com/Dororo99/BlockTrip)
@@ -33,7 +33,7 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-| ** 2024.11 | **2024 KAIST Counter-Disinformation Challenge** | [Won a Grand Prize(Team Arise)]
+| **2024.11** | **2024 KAIST Counter-Disinformation Challenge** | Won a Grand Prize(Team Arise)
 
 ### 💪 Skills
 #### Platforms & Languages

@@ -11,7 +11,7 @@
 | ------- | ------- | ------- | 
 | **2025.03 -** | **SMYD(사미용두) Member** | Studying and Doing Research on Autonomous Driving |
 | **2024.06 - 2025.11** | **Shorti Team Leader** | Development of Peer-to-Peer Travel Connection Service |
-| **2024.01 - 2024.12** | **AAIS Lab(HYU) Member** | Artificial intelligence research using digital pathology image |
+| **2024.01 - 2024.12** | **AAIS Lab(HYU) Intern** | Artificial intelligence research using digital pathology image |
 | **2023.08 - 2024.08** | **GDSC HYU(Google Developer Student Clubs) General Member of Server** | Working on the Backend Part and Studying NodeJS |
 | **2023.03 - 2023.12** | **‘ALOHA’ Member** | Studying Algorithm and Rating BOJ |
 
